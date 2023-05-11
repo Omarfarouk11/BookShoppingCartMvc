@@ -1,0 +1,26 @@
+﻿body {
+   
+    
+}
+input{
+    width:230px;
+    height:40px;
+}
+label{
+    margin-right:20px;
+    font-size:20px;
+}
+.form-select{
+    width:230px;
+}
+.row{
+    padding:50px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type=number] {
+    -moz-appearance: textfield;
+}

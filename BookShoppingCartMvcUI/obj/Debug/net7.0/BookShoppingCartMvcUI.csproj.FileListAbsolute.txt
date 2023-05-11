@@ -1,0 +1,9 @@
+E:\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net7.0\BookShoppingCartMvcUI.csproj.AssemblyReference.cache
+E:\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net7.0\BookShoppingCartMvcUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net7.0\BookShoppingCartMvcUI.AssemblyInfoInputs.cache
+E:\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net7.0\BookShoppingCartMvcUI.AssemblyInfo.cs
+E:\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net7.0\BookShoppingCartMvcUI.csproj.CoreCompileInputs.cache
+E:\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net7.0\BookShoppingCartMvcUI.MvcApplicationPartsAssemblyInfo.cs
+E:\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net7.0\BookShoppingCartMvcUI.MvcApplicationPartsAssemblyInfo.cache
+E:\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net7.0\BookShoppingCartMvcUI.RazorAssemblyInfo.cache
+E:\BookShoppingCartMvc\BookShoppingCartMvcUI\obj\Debug\net7.0\BookShoppingCartMvcUI.RazorAssemblyInfo.cs
